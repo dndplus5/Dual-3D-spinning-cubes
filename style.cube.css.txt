@@ -105,7 +105,7 @@ body {
   transition: 5s;
 }
 
-.cube2:hover ~ .cube2 .big span {
+.cube:hover ~ .cube2 .big span {
   background: transparent;
   border: 10px solid #fff;
   filter: drop-shadow(0 0 20px #fff);
